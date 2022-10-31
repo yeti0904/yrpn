@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/yrpn
+yrpn.so
+yrpn.dylib
+yrpn.dll
+yrpn.a
+yrpn.lib
+yrpn-test-*
+*.exe
+*.o
+*.obj
+*.lst
